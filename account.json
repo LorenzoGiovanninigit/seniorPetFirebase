@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "abivet-pets",
+  "private_key_id": "dafd60d352c68f521957fbf1676a608ff936fce3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLVqAs956kpxjq\nh6DwVQxnkDge0cxmMITN2SmrnLouTKlp/5pN2NqJTr1094ubCQomCljXGUdIeZF3\n3puTzF7Rj2mQs7jpxxKe6NI7vN342bCGWwFbUZ1+zW5tihJsMwmrbA0Gb+c767+x\nmQgsEjnAOee8mF8eqLXxdwBaSX/MLE62SmTj8KVxWqRz7fZBMEYQ6OwZhv/QBAU3\nSv5tmcaAjCzzsLqARdna9DIL3vEE2Lc+hI2wy0c2FJF9vsde2kUkb/9ZFOmUUOJm\nvWbxAP5xFdGRSt0V2kSOtse5kFs+YlF8box4v9x0LyG7aWKJN/bf00HGeMCDIEBf\n9Z+opFUJAgMBAAECggEACoaW7wz4ZNyTgRx5O8ejRz8jcJD6rDWJwmAh9JS93ISy\nZl7JXYtCsMXnL8VasDFVGagCdkwEMR+95H8c/ZcgN2fdlpR/F3brI1e4/kemE+os\n5Z+TX+dHKFe5BimWD4zKzNlgiTtEtIjdGPPrhOCCpc05jj0y+1LPbEr1NTdFystO\nnMUYRcZQ5605EKsh+J/AuYZ83bKXwXfVo2jQViupA3uoeslxV6BYjTfqUj+iHR+E\ndRz3OvPrkss9n1BWA7NJkrT6+LbaVNj/8U5XFUxr93ThsPk44I3ny4XMF3HJ/539\nd/IaKx89gCEMb9nireIPrYoqFsh/bhT02Q/bA8hEaQKBgQD9rEXdUdG4jEzzp0Jn\nBDCNCYLGWIubsgdAkp9hQwKuBBpznCoNA3e8+6n5TQ7HwjPbGsyohlgMBjYJu8ad\nJtC2STksZKJTfzw2mITp5RvPAZ4UhDUz8vwbewayF2ZEKwndA+U0q+4U2vwtxn5u\nOG/iU8Kh/2H8pYDoxYsa3FO7NQKBgQDNNCWT/nAR1U9vr2oMmL34ZRE5jFnyWxDe\nz0V/SQBGF1oR5icFi3fPaDcz3aRniJ+vTlv++r9oG4vx7TYhicat6KRhG5/466pm\nlcrj7S6znSIBDVFJKs69eb3FoINm64DR5Vhl7phOpR476nra+m+/wnI5ARyPOdgE\ntVcU9IOZBQKBgAr3NHnxvIAeyIDL3Sn422RtYdLTJw3O71NSQ0OAExCUqtQOjx7K\n5JUtx9Y4B4iJE5bIHMq4K/wxFIrtLBPFBsaqeac6nm2/lUnC5BP8TGxxZHT8lhQt\nz8ocUljGfCw8NAvyzCivufX61WXhK7v2ApglCMfZ81Fpkh391BqQJap1AoGAF7fa\nTBPRsk38g4U79b7F3msYJZWyY8/g0FAW0VKHxJI4Z+85PWvUalW6Y7VPpmPlSSb+\nfSdQbmEYuNrZMeEx5LIKJetCf0wGAxt3OwcUKdCUuJhod9OJ1961b51Q8tlvp1Mh\n944vbo+pQfWlQ6BEwF5iQ3J8cZWXAVxQd2yXtV0CgYEA7qhu+gmOUJiyH5R5gr9S\nKmIGwNNRnW7s64A9B+iTQZAEUaq0L8N00nujNlh8+WTzXhe4JPdyn1U0cO6f9dDm\nGa6Z74ij7aVKB+qDj6Bv5xqPJ+Ea+VTdbPDunLpZh6O9GTRrvYwmlBuP3Yy62i0D\n1EuU39caeNuDydAVFzpg7kM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gpj0b@abivet-pets.iam.gserviceaccount.com",
+  "client_id": "108441958056188296731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gpj0b%40abivet-pets.iam.gserviceaccount.com"
+}
